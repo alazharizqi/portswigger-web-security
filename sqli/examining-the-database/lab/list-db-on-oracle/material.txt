@@ -1,0 +1,9 @@
+Equivalent to information schema on Oracle
+
+On Oracle, you can obtain the same information with slightly different queries.
+
+You can list tables by querying all_tables:
+SELECT * FROM all_tables
+
+And you can list columns by querying all_tab_columns:
+SELECT * FROM all_tab_columns WHERE table_name = 'USERS'
