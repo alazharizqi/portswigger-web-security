@@ -1,0 +1,2 @@
+CASE statement is similar with if else in general programming language.
+
